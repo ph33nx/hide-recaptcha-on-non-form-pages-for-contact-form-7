@@ -3,7 +3,7 @@
  * Plugin Name:       Hide reCAPTCHA Badge on Non-Form Pages for Contact Form 7
  * Plugin URI:        https://wordpress.org/plugins/hide-recaptcha-on-non-form-pages-for-contact-form-7/
  * Description:       Hide the reCAPTCHA badge on every page without a Contact Form 7 form, and stop its scripts slowing those pages. No setup.
- * Version:           2.0.0
+ * Version:           2.1.0
  * Requires at least: 6.7
  * Requires PHP:      7.4
  * Author:            abhi9
