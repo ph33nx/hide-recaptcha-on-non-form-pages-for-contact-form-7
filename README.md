@@ -77,7 +77,7 @@ Yes, tested up to Contact Form 7 6.2.6 and WordPress 7.2.
 Needs Docker, Node 24, PHP and Composer.
 
 ```bash
-npm ci && composer install
+npm ci && npx lefthook install && composer install
 npm run env:start   # http://localhost:8888, admin / password
 npm test
 npm run plugin-check
