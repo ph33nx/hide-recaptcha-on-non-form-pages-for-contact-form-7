@@ -1,0 +1,6 @@
+parameters:
+	level: 8
+	paths:
+		- recaptcha-form-pages-only-cf7.php
+	scanFiles:
+		- vendor/php-stubs/wordpress-stubs/wordpress-stubs.php
